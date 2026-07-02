@@ -28,20 +28,11 @@ Compile o projeto:
 
 ```bash
 javac CalculadoraIMC.java helper_classes/*.java
-  GNU nano 8.5                      README.md                       Modificado  
-
-- Java
-- Java Swing
-- AWT
-
-## Como executar
-
-Compile o projeto:
-
 ```bash
-javac CalculadoraIMC.java helper_classes/*.java
-```
-Execute o projeto
+``` 
+
+Execute o projeto:
+
 ```bash
 java CalculadoraIMC
 ```
