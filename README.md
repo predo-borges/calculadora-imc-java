@@ -28,8 +28,7 @@ Compile o projeto:
 
 ```bash
 javac CalculadoraIMC.java helper_classes/*.java
-```bash
-``` 
+ 
 
 Execute o projeto:
 
