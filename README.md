@@ -43,7 +43,7 @@ javac CalculadoraIMC.java helper_classes/*.java
 ```
 Execute o projeto
 ```bash
-Java CalculadoraIMC
+java CalculadoraIMC
 ```
 ## Interface
 
