@@ -23,18 +23,18 @@ O objetivo deste projeto é praticar conceitos básicos de Java, interface gráf
 - AWT
 
 ## Como executar
-
 Compile o projeto:
 
 ```bash
 javac CalculadoraIMC.java helper_classes/*.java
- 
+```
 
 Execute o projeto:
 
 ```bash
 java CalculadoraIMC
 ```
+
 ## Interface
 
 ![Tela da calculadora IMC](screenshots/calculadora-imc.png)
